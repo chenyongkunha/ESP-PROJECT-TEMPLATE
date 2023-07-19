@@ -154,3 +154,9 @@ managed_components
 
 # pytest log
 pytest_embedded_log/
+
+# Squareline Studio
+SquarelineStudio/SquarelineStudio_Project/backup/
+SquarelineStudio/SquarelineStudio_Project/autosave/
+SquarelineStudio/SquarelineStudio_Project/cache/
+SquarelineStudio/SquarelineStudio_Project/export/
